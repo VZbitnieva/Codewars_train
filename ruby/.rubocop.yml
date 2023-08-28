@@ -1,0 +1,13 @@
+---
+AllCops:
+  Exclude:
+    - tmp/**/*
+  TargetRubyVersion: 3.2
+Naming/MethodParameterName:
+  Enabled: false
+Naming/PredicateName:
+  Enabled: false
+Style/AsciiComments:
+  Enabled: false
+Style/Documentation:
+  Enabled: false
